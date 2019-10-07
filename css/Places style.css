@@ -1,0 +1,52 @@
+body {
+	background-image: linear-gradient(to bottom right, tan, coral);
+	color: pink;
+	margin:0px;
+	margin-left: 
+}	font-family: 'Merriweather', serif;
+
+
+
+h1{
+	font-family: Noto Sans;
+	font-size: 90px;
+}
+h1{
+	font-family: Noto Sans;
+	font-size: 90px;
+}
+
+.Forest {
+	
+}
+
+img {
+	height: 400px;
+	width: 400px;
+}
+ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	/*width:200px; */
+	overflow: hidden;
+	background-color: pink;
+	position: fixed;
+
+}
+li  {
+	float:left;
+}
+li a {
+	display:block;
+	color: green;
+	padding: 8px 16px;
+	text-decoration: none;
+}
+li a:hover {
+	background-color:coral;
+	color:pink;
+}
+li a:hover {
+	background-color: coral;
+}
