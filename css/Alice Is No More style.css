@@ -8,15 +8,15 @@ body {
 
 
 h1{
-	font-family: Noto Sans;
+	font-family: 'Grenze', serif;
 	font-size: 90px;
 }
 h1{
-	font-family: Noto Sans;
+	font-family: 'Grenze', serif;
 	font-size: 90px;
 }
 
-.tea {
+.rose {
 	
 }
 
@@ -30,7 +30,7 @@ ul {
 	padding:0;
 	/*width:200px; */
 	overflow: hidden;
-	background-color: pink;
+	background-color: 993333;
 	position: fixed;
 
 }

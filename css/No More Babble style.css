@@ -5,14 +5,12 @@ body {
 	margin-left: 
 }	font-family: 'Merriweather', serif;
 
-
-
 h1{
-	font-family: Noto Sans;
+	font-family: 'Grenze', serif;
 	font-size: 90px;
 }
 h1{
-	font-family: Noto Sans;
+	font-family: 'Grenze', serif;
 	font-size: 90px;
 }
 ul {
@@ -21,7 +19,7 @@ ul {
 	padding:0;
 	/*width:200px; */
 	overflow: hidden;
-	background-color: pink;
+	background-color: 993333;
 	position: fixed;
 
 }
@@ -30,7 +28,7 @@ li  {
 }
 li a {
 	display:block;
-	color: green;
+	color: red;
 	padding: 8px 16px;
 	text-decoration: none;
 }
@@ -39,5 +37,5 @@ li a:hover {
 	color:pink;
 }
 li a:hover {
-	background-color: coral;
+	background-color: maroon;
 }
